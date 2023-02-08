@@ -1,0 +1,16 @@
+warna opsi 1
+	biru tema  	 : #54ded4 (vaking-300) 
+	biru hover 	 : #121d64 (lucky-poin-900) 
+	abu-abu text : #66676a (mid-gray-500) 
+	abu-abu bg 	 : #eaeff0 (Porcelain-100) 
+
+warna opsi 2
+	biru tema	 : #00b9e1 (Cerulean-500) 
+	biru hover	 : #7fdcef (spray-300) 
+	abu-abu text : #66676a (mid-gray-500)
+	abu-abu bg 	 : #eaeff0 (Porcelain-100) 
+
+warna dark ???
+font 
+	manrope
+
