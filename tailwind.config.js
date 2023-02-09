@@ -7,9 +7,6 @@ module.exports = {
       padding: '16px',
     },
     extend: {
-      fontFamily: {
-        manrope: ['Manrope']
-      },
       colors: {
         primary: '#00b9e1',
         normal: '#66676a',
