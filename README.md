@@ -45,6 +45,8 @@ module.exports = {
 }
 
 ```
+### Tidak center
+Masalah belum belum bisa diselesaikan
 
 ## Catatan
  Jika ingin membuat 2 element bersebelahan gunakan `flex` & `flex-wrap`
