@@ -12,7 +12,8 @@ module.exports = {
         normal: '#66676a',
         dark: '#3c3c3d',
         midlight: '#b9bac0',
-        light: '#f5f5f6'
+        light: '#f5f5f6',
+        midgray: '#eaeff0'
       },
       screens:{
         '2xl': '1320px',
